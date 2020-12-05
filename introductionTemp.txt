@@ -1,4 +1,6 @@
-this is a temp text file for the introduction video
+this is a temp text file for the introduction video and now the branch video
 
 new line from edit
 another line
+
+this edit is branched off the main branch
