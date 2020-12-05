@@ -1,5 +1,7 @@
 this is a temp text file for the introduction video and now the branch video
 
+added new line for issue fix
+
 new line from edit
 another line
 
